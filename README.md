@@ -32,7 +32,7 @@ backend/
 ├── .env               # Environment variables (e.g., JWT_SECRET, DB_URI)
 ├── server.js          # Entry point to start the server
 └── package.json       # Dependencies and scripts
-
+###frontend
 frontend/
 ├── public/            # Static files (HTML, images, etc.)
 ├── src/
